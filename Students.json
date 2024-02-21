@@ -1,0 +1,17 @@
+[
+    {"name": "John", "age": 25, "gender": "M", "major": "Computer Science"},
+    {"name": "Emliy", "age": 22, "gender": "F", "major": "Biology"},
+    {"name": "Michael", "age": 28, "gender": "M", "major": "Engineering"},
+    {"name": "Sarah", "age": 20, "gender": "F", "major": "Mathmatics"},
+    {"name": "David", "age": 24, "gender": "M", "major": "Economics"},
+    {"name": "Jessica", "age": 23, "gender": "F", "major": "Psychology"},
+    {"name": "Ryan", "age": 27, "gender": "M", "major": "History"},
+    {"name": "Daniel", "age": 21, "gender": "M", "major": "English"},
+    {"name": "Emma", "age": 26, "gender": "F", "major": "Physics"},
+    {"name": "Mathew", "age": 24, "gender": "M", "major": "Chemistry"},
+    {"name": "Olivia", "age": 29, "gender": "F", "major": "Sociology"},
+    {"name": "Joshua", "age": 22, "gender": "M", "major": "Political Science"},
+    {"name": "Sophia", "age": 25, "gender": "F", "major": "Business Administration"},
+    {"name": "Andrew", "age": 23, "gender": "M", "major": "Art"},
+    {"name": "Rachel", "age": 26, "gender": "F", "major": "Music"}
+]
